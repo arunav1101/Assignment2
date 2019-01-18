@@ -1,3 +1,26 @@
 body {
     background-color: slateblue;
-  }
+}
+
+.demo {
+    color: white;
+    font-size: 20px;
+}
+#newPara{
+    color: palegreen;
+    font-size: 20px;
+}
+a {
+    color: yellowgreen;
+    font-size: 20px;
+}
+
+h1 {
+    color: black;
+    font-size: 40px;
+}
+
+h2 {
+    color: black;
+    font-size: 40px;
+}
